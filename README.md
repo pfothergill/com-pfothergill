@@ -1,4 +1,4 @@
-# Website template for pfothergill.com (Site not yet updated to reflect this template)
+# Navigation template for a React website (Site not yet updated to reflect this template)
 
 <br />
 
